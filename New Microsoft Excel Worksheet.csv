@@ -3,13 +3,13 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 2-PA45-Port,,Portugal,Portugal,PORT,,soil,Quercus suber,A2
 5-TavQsub1-Port,"Tavira, Faro",Faro_Portugal,Portugal,PORT,Nursery,Soil,Quercus suber,A2
 6-Arb2-TSrnd-Port,"Tavira, Faro",Faro_Portugal,Portugal,PORT,Forest,Soil,Arbutus unedo,A2
-7-BarXV-1b-8-Port,"Loulé, Faro",Faro_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
+7-BarXV-1b-8-Port,"LoulÃ©, Faro",Faro_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
 8-Foz-Port,"Silves, Faro",Faro_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
 9-S-MarcSALG401-Port,"Silves, Faro",Faro_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
-10-S7Castl-1-Port,"Vinhais, Bragança",Bragança_Portugal,Portugal,PORT,Forest,Soil,Castanea sativa,A2
-11-S10-S66-L3-Port,"Macedo de Cavaleiros, Bragança",Bragança_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
-12-S13-S66-L3-Port,"Montemor-o-Novo, Évora",Evora_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
-13-S14-S70-L6-Port,"Loulé, Faro",Faro_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
+10-S7Castl-1-Port,"Vinhais, BraganÃ§a",BraganÃ§a_Portugal,Portugal,PORT,Forest,Soil,Castanea sativa,A2
+11-S10-S66-L3-Port,"Macedo de Cavaleiros, BraganÃ§a",BraganÃ§a_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
+12-S13-S66-L3-Port,"Montemor-o-Novo, Ã‰vora",Evora_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
+13-S14-S70-L6-Port,"LoulÃ©, Faro",Faro_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
 14-S102-S8-1-Port,"Terras de Bouro, Braga",Braga_Portugal,Portugal,PORT,Forest,Soil,Quercus robur + Quercus pyrenaica,A2
 16-S113-S1-Port,"Terras de Bouro, Braga",Braga_Portugal,Portugal,PORT,Forest,Soil,Quercus suber,A2
 17-S126-S2-Port,"Amarante, Porto",Porto_Portugal,Portugal,PORT,Nursery,Soil,Abies alba,A2
@@ -68,7 +68,7 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 82-CIN9-DomRep,Los Montones,Los Montones_DomRep,Dominican Republic,DOMREP,Forest,Soil,Pinus occidentalis,A2
 83-CIN10-DomRep,Los Montones,Los Montones_DomRep,Dominican Republic,DOMREP,Forest,Soil,Pinus occidentalis,A2
 84-CIN11-DomRep,Los Gurabitos,Los Gurabitos_DomRep,Dominican Republic,DOMREP,Plantation,Soil,Pinus caribaea,A2
-85-CIN14-DomRep,Crossing of roads to Carrizal and Rincón de Piedras,DomRep,Dominican Republic,DOMREP,Forest,Soil,Pinus occidentalis,A2
+85-CIN14-DomRep,Crossing of roads to Carrizal and RincÃ³n de Piedras,DomRep,Dominican Republic,DOMREP,Forest,Soil,Pinus occidentalis,A2
 69-PH186-France,,France,France,FRA,Forest,soil,Quercus ilex,A2
 76-P53-04-France,,France,France,FRA,,,Castanea sp. ,A2
 77-P54-04-France,,France,France,FRA,,,Quercus sp. ,A2
@@ -129,7 +129,6 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 260-UQ795-WAus,Cape Arid,W_Aus,Australia,AUS,,,soil,A1
 261-UQ817-TasAus,Coles Bay,Tas_Aus,Australia,AUS,,,Aotus ericoides,A2
 262-UQ818-QueensAus,Cooloola,Q_Aus,Australia,AUS,,,Dillwyna floribunda,A2
-263-UQ819-NewGuin,Mt. Kaidu,Mount Kaidu_PNG,PNG,PNG,,,soil,0
 268-VN070-NVietnam,"Hoang-Lien Mountains, site 3",N_Vietnam,Vietnam,VNM,Forest,,Quercus glauca,0
 270-VN058-NVietnam,"Hoang-Lien Mountains, site 2",N_Vietnam,Vietnam,VNM,Forest,,Rhododendron sp.,0
 273-VN108-NVietnam,"Hoang-Lien Mountains, site 4",N_Vietnam,Vietnam,VNM,Forest,,Castanopsis sp.,0
@@ -142,7 +141,7 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 291-VN340-NVietnam,"Hoang-Lien Mountains, site 8",N_Vietnam,Vietnam,VNM,Forest,,"Acer oblongum, Symplocos dryophila",0
 292-VN457-NVietnam,"Ba-Vi National Park, site 17",N_Vietnam,Vietnam,VNM,Forest,,Machilus bonii,0
 293-VN501-NVietnam,"Ba-Vi National Park, site 17",N_Vietnam,Vietnam,VNM,Forest,,"Quercus glauca, Meliosma arnottiana",0
-264-A2-183-NewGuin,Bulolo,"Mankai, Bulolo_PNG",PNG,PNG,,,soil,0
+264-A2-200-NewGuin,Bulolo,"Mankai, Bulolo_PNG",PNG,PNG,,,soil,0
 108-TW88-YilanCo-NE-Taiwan,"Taipingshan, site F04",Yilan county Northeast,Taiwan,TWN,Forest,Soil,Fagus hayatae,A1
 109-TW90-YilanCo-NE-Taiwan,"Taipingshan, site F04",Yilan county Northeast,Taiwan,TWN,Forest,Soil,Fagus hayatae,A1
 110-TW92-YilanCo-NE-Taiwan,"Taipingshan, site F04",Yilan county Northeast,Taiwan,TWN,Forest,Soil,Fagus hayatae,A1
@@ -157,8 +156,8 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 15-S108-S4A1-Portugal,"Terras de Bouro, Braga",,Portugal,PORT,Forest,Soil,Fagus sylvatica,A2
 19-S142S7C-Portugal,"Monchique, Faro",,Portugal,PORT,Forest,Soil,Castanea sativa,A2
 200-W1733-NSWalesAus_Rep2,Hawlesbury Nepean,New South Wales,Australia,AUS,,,,A2
-20-S144S4-Portugal,"Grandola, Setúbal",,Portugal,PORT,Forest,Soil,Quercus suber,A2
-21-S152-S2-1-Portugal,"Estremoz, Évora",,Portugal,PORT,Forest,Soil,Quercus ilex,A2
+20-S144S4-Portugal,"Grandola, SetÃºbal",,Portugal,PORT,Forest,Soil,Quercus suber,A2
+21-S152-S2-1-Portugal,"Estremoz, Ã‰vora",,Portugal,PORT,Forest,Soil,Quercus ilex,A2
 225-WalnussLinz-Austria,,,Austria,AUST,,,Juglans nigra,
 22-S162-S4-1-Portugal,"Anadia, Aveiro",,Portugal,PORT,Nursery,Soil,Castanea sativa,A2
 231-UQ2966-SouthAfrica,"S&SW Cape (Doringrivier, SA)",,South Africa,RSA,,,,A1
@@ -175,7 +174,7 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 286-VN355-N-Vietnam,"Hoang-Lien Mountains, site 9",Northern ,Vietnam,VNM,Forest,,"Acer oliverianum, Symplocos quillaminii, Eryobotrya cavaleriei",
 287-VN373-N-Vietnam,"Hoang-Lien Mountains, site 8",Northern ,Vietnam,VNM,Forest,,"Ilex leeseneri, Castanopsis acutiminissima, Eurya annamensis",
 289-VN319-N-Vietnam,"Hoang-Lien Mountains, site 8",Northern ,Vietnam,VNM,Forest,,Acer oblongum,
-28-S208-S1D-Portugal,"Grandola, Setúbal",,Portugal,PORT,Forest,Soil,Quercus suber,A2
+28-S208-S1D-Portugal,"Grandola, SetÃºbal",,Portugal,PORT,Forest,Soil,Quercus suber,A2
 290-VN339-N-Vietnam,"Hoang-Lien Mountains, site 8",Northern ,Vietnam,VNM,Forest,,"Acer oblongum, Symplocos dryophila",
 294-VN555-N-Vietnam,"Ba-Vi National Park, site 17",Northern ,Vietnam,VNM,Forest,,Magnolia annamensis,
 295-VN512-N-Vietnam,"Ba-Vi National Park, site 17",Northern ,Vietnam,VNM,Forest,,"Vernicia montana (Euphorbiaceae), Antidesma sp.",
@@ -200,11 +199,11 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 37-S284-S2C-Portugal,"Guarda, Guarda",,Portugal,PORT,Forest,Soil,Castanea sativa,A2
 38-S289-R5C-Portugal,"Guarda, Guarda",,Portugal,PORT,Forest,Soil,Castanea sativa,A2
 39-S89-S1-Portugal,"Terras de Bouro, Braga",,Portugal,PORT,Forest,Soil,Quercus rubra,A2
-3-Caetano-37-Spain,Cádiz,,Spain,SPN,,,Quercus suber,A2
+3-Caetano-37-Spain,CÃ¡diz,,Spain,SPN,,,Quercus suber,A2
 40-S91S4H-Portugal,"Terras de Bouro, Braga",,Portugal,PORT,Forest,Soil,Quercus suber,A2
 41-S92S12B-Portugal,"Terras de Bouro, Braga",,Portugal,PORT,Forest,Soil,Castanea sativa,A2
-43-CIF-1-Spain,Cádiz,,Spain,SPN,,,Quercus suber,A2
-4-Caetano-32-Spain,Cádiz,,Spain,SPN,,,Quercus suber,A2
+43-CIF-1-Spain,CÃ¡diz,,Spain,SPN,,,Quercus suber,A2
+4-Caetano-32-Spain,CÃ¡diz,,Spain,SPN,,,Quercus suber,A2
 60-PH002-UK,,,UK,UK,woodland,soil,Quercus robur,A2
 61-PH003-UK,,,UK,UK,woodland,bark,Quercus robur,A2
 67-PH093-Italy,,,Italy,ITL,nursery,soil,Picea abies,A2
@@ -215,9 +214,9 @@ Isolate,Location,Area,Country,Country_code,Type of site,Source,Host,MT
 73-PH228-Tunisia,,,Tunisia,TUN,Forest,Soil,Quercus suber,A2
 74-PH229-Algeria,,,Algeria,ALG,Forest,Soil,Quercus suber,A2
 75-PH230-Algeria,,,Algeria,ALG,Forest,Soil,Quercus suber,A2
-78-P183-Hungary,"Székesfehérvár (Bricostore), Hungary, 06.09.2007. (plant imported from the Netherlands)",,Hungary,HUN,,necrotic bark from stem base,Rhododendron,A2
+78-P183-Hungary,"SzÃ©kesfehÃ©rvÃ¡r (Bricostore), Hungary, 06.09.2007. (plant imported from the Netherlands)",,Hungary,HUN,,necrotic bark from stem base,Rhododendron,A2
 79-P301-Mallorca,,,Mallorca,MAL,,,unknown,A2
-80-JA132-Hungary,"Gencsapáti, Hungary",,Hungary,HUN,,,Chamaecyparis lawsoniana 'Columnaris',A2
+80-JA132-Hungary,"GencsapÃ¡ti, Hungary",,Hungary,HUN,,,Chamaecyparis lawsoniana 'Columnaris',A2
 82-CIN-9-DomRep_Rep3,Los Montones,,Dominican Republic,DOMREP,Forest,Soil,Pinus occidentalis,A2
 J001-Bent-OR-USA,Benton,"Bent, OR",USA,USA,,,,
 R001-Yamhill-OR-USA,,"Yamhill, OR",USA,USA,,,,
